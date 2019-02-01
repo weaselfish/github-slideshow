@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Where my life begins to absorb yours
 Use the left arrow to go back!  
